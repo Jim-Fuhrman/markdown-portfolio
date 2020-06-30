@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My *technical* skills
+- C#
+- .Net
+- JavaScript
+- jQuery
+- Bootstrap
+
+## My _Cooking_ skills
+- Scrambled Eggs
+- Oatmeal
+- Baked Chicken
